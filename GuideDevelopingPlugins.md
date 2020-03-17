@@ -294,5 +294,7 @@ Apigeelint is a powerful tool for everybody working with Apigee proxies, especia
 
 Don't forget to contribute to the [official repository](https://github.com/apigee/apigeelint) if you create something awesome!
 
+You can find all the source code used in this guide in this [GitHub branch](https://github.com/eduandrade/apigeelint/tree/guide-developing-plugin). Feel free to use it!
+
 Thanks,
 Eduardo A.
